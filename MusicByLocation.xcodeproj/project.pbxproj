@@ -19,6 +19,7 @@
 		92136E9427CD3729006F7975 /* StateController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92136E9327CD3729006F7975 /* StateController.swift */; };
 		92136E9727CD57A8006F7975 /* ArtistResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92136E9627CD57A8006F7975 /* ArtistResponse.swift */; };
 		92136E9927CD57DA006F7975 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92136E9827CD57DA006F7975 /* Artist.swift */; };
+		92569B3827D13E110042C9BE /* ITunesAdaptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92569B3727D13E110042C9BE /* ITunesAdaptor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		92136E9327CD3729006F7975 /* StateController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateController.swift; sourceTree = "<group>"; };
 		92136E9627CD57A8006F7975 /* ArtistResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtistResponse.swift; sourceTree = "<group>"; };
 		92136E9827CD57DA006F7975 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
+		92569B3727D13E110042C9BE /* ITunesAdaptor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ITunesAdaptor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				92136E6A27C97DC9006F7975 /* Preview Content */,
 				92136E8E27C97E95006F7975 /* LocationHandler.swift */,
 				92136E9327CD3729006F7975 /* StateController.swift */,
+				92569B3727D13E110042C9BE /* ITunesAdaptor.swift */,
 			);
 			path = MusicByLocation;
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				92136E8F27C97E96006F7975 /* LocationHandler.swift in Sources */,
+				92569B3827D13E110042C9BE /* ITunesAdaptor.swift in Sources */,
 				92136E6727C97DC7006F7975 /* ContentView.swift in Sources */,
 				92136E6527C97DC7006F7975 /* MusicByLocationApp.swift in Sources */,
 				92136E9227CD3588006F7975 /* CLPlacemark.swift in Sources */,
